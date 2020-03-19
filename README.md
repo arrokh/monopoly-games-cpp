@@ -1,6 +1,6 @@
 # README #
 
-Final Project Basic Computer Programming using C++ and Visual Studio.
-Course was taken during the 1st semester of the lectures.
+Final project Basic Programming course using C++ and Visual Studio.
+This course was given in the first year of my lecture.
 
-To Compile this project, you need at least Visual Studio 2012 and C++11 Compiler.
+To run this project, you need at least Visual Studio 2012 and C++11 Compiler.
